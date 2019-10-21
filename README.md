@@ -1,6 +1,7 @@
 # Backend component for the "ESports-NBA" CAS service
 
 This backend component is a Spring Boot project, and it was used in the ['SSO and SLO for Spring Boot and Angular applications with CAS'](https://debbabi-nader.github.io/cas-spring-angular/index.html) blog post.
+Its associated frontend component can be found in the [esports-nba-frontend](https://github.com/debbabi-nader/esports-nba-frontend) repository.
 
 ## Requirements
 
